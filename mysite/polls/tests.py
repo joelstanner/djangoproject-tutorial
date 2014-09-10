@@ -105,7 +105,6 @@ class QuestionMethodTests(TestCase):
 
 
 # -------------------- Question Index Detail Tests --------------------
-
 class QuestionIndexDetailTests(TestCase):
 
     def test_detail_view_with_a_future_question(self):
