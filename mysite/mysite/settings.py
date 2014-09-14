@@ -17,7 +17,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 # See https://docs.djangoproject.com/en/1.7/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'y8ln5n$!*r20iyz&)ya(i2p5l*=00)$4gd=p*il82fg=e&ryjh'
+SECRET_KEY = 'get-your-own'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -53,20 +53,6 @@ ROOT_URLCONF = 'mysite.urls'
 
 WSGI_APPLICATION = 'mysite.wsgi.application'
 
-
-# Database
-# https://docs.djangoproject.com/en/1.7/ref/settings/#databases
-
-#DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#        'NAME': 'polls_django_db',
-#        'USER': 'djangousr',
-#        'PASSWORD': 'p82x4f7Q6u9^JaoG',
-#        'HOST': 'localhost',
-#        'PORT': '5432',
-#    }
-#}
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.7/topics/i18n/
