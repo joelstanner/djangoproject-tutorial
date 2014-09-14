@@ -1,2 +1,9 @@
 Django==1.7
+Pillow==2.5.3
+astroid==1.2.1
+django-polls==0.1
+django-simple-captcha==0.4.2
+logilab-common==0.62.1
+psycopg2==2.5.4
 pytz==2014.7
+six==1.8.0
